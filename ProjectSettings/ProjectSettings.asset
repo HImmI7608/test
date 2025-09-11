@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 2fe668ed430d7c6469af50613d198dfc
+  productGUID: cd277e4d32e7c2a40a9a7d4071b47700
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: ref
+  productName: My project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -842,14 +842,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: ref
+  metroPackageName: My project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: ref
+  metroApplicationDescription: My project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -920,10 +920,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: c665d607-7900-4947-a8a3-0fd700aefe7f
+  cloudProjectId: 14ab659b-1c1f-4ef9-b6a2-992481c3cb4c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: ref
+  projectName: My project
   organizationId: dron7608zx
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
